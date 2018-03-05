@@ -1,0 +1,56 @@
+html {
+	overflow-x: hidden;
+}
+
+body {
+	background-color: #08DDFF;
+}
+
+#logo {
+	margin: auto;
+}
+
+#messagecontainer {
+	list-style: none;
+}
+
+#main-header {
+	height: 50px;
+	width: 100%;
+	background-color: black;
+	margin: 0px;
+	margin-bottom: 20px;
+}
+
+#main-header input {
+	position: relative;
+	left: 10px;
+	top: 14px;
+}
+
+#main-header p {
+	color: white;
+	position: relative;
+	left: 70px;
+	top: -22px;
+}
+
+footer {
+		position: fixed;
+    left: 0px;
+    bottom: 0px;
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+	}
+
+	#footer-text {
+			font-family: arial;
+	    margin: 0 auto;
+	    color: #fff;
+	    font-size: 13px;
+	    font-weight: bold;
+	    text-decoration: none;
+	}
